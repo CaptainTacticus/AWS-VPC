@@ -1,5 +1,5 @@
 # AWS-VPC
-Built A VPC for CaptainTacticus
+Built A VPC for CaptainTacticus using terraform
 
 Multi AZ AWS VPC having public and private subnets using terraform
 with internet gateway, NAT gateway
